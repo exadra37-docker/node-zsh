@@ -11,9 +11,8 @@ Please see [How to Use](#how-to-use) for more details.
 
 If this is useful for you, please:
 
-* Share it on [Twitter](https://twitter.com/home?status=https%3A//hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app%20%23Developers,%20%23DevOps%20and%20%23SysAsmin%20can%20%23Dockerize%20any%20%23App%20and%20run%20it%20from%20inside%20%23docker%20container.%20by%20%40Exadra37.%20) or in any other channel of your preference.
+* Share it on [Twitter](https://twitter.com/home?status=Base%20%23DockerImage%20to%20build%20%23DockerContainer%20for%20%23nodejs%20with%20awesome%20%23OhMyZsh%20shell%20by%20%40Exadra37%20for%20%23Developers.%20https%3A//hub.docker.com/r/exadra37/node-zsh) or in any other channel of your preference.
 * Consider to [offer me](https://www.paypal.me/exadra37) a coffee, a beer, a dinner or any other treat 😎.
-
 
 ## SEMANTIC VERSIONING
 
@@ -22,17 +21,17 @@ This repository will adhere to this [Semantic Version](https://gitlab.com/exadra
 
 ## HOW TO INSTALL
 
-To install just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/node-zsh/docs/how-to/install.md).
+To install just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/node-zsh/blob/master/docs/how-to/install.md).
 
 
 ## HOW TO UNINSTALL
 
-To uninstall just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/node-zsh/docs/how-to/uninstall.md).
+To uninstall just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/node-zsh/blob/master/docs/how-to/uninstall.md).
 
 
 ## HOW TO USE
 
-See usage examples [here](https://gitlab.com/exadra37-docker-images/node-zsh/docs/how-to/use.md).
+See usage examples [here](https://gitlab.com/exadra37-docker-images/node-zsh/blob/master/docs/how-to/use.md).
 
 
 ## CONTRIBUTING IN ISSUES / MERGE REQUESTS
@@ -50,7 +49,7 @@ Watch [Boards](https://gitlab.com/exadra37-docker-images/node-zsh/boards) to kee
 
 ## BRANCHES
 
-Branches are created as demonstrated [here](https://gitlab.com/exadra37-docker-images/node-zsh/docs/how-to/create_branches.md).
+Branches are created as demonstrated [here](https://gitlab.com/exadra37-docker-images/node-zsh/blob/master/docs/how-to/create_branches.md).
 
 This are the type of branches we can see at any moment in the repository:
 
