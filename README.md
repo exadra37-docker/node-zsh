@@ -1,6 +1,10 @@
-# MY BASE RESPOSITORY
+# NODE ZSH
 
-Starting point for all my Repositories...
+This Docker Image will be the base Docker Image for all my other ones where I need Node.
+
+I am shipping it with a Docker Compose file so that we can also use this image locally to play with Node and NPM.
+
+Please see [How to Use](#how-to-use) for more details.
 
 
 ## SUPPORT DEVELOPMENT
@@ -18,22 +22,22 @@ This repository will adhere to this [Semantic Version](https://gitlab.com/exadra
 
 ## HOW TO INSTALL
 
-To install just follow detailed instructions from [here](docs/how-to/install.md).
+To install just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/node-zsh/docs/how-to/install.md).
 
 
 ## HOW TO UNINSTALL
 
-To uninstall just follow detailed instructions from [here](docs/how-to/uninstall.md).
+To uninstall just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/node-zsh/docs/how-to/uninstall.md).
 
 
 ## HOW TO USE
 
-See usage examples [here](docs/how-to/use.md).
+See usage examples [here](https://gitlab.com/exadra37-docker-images/node-zsh/docs/how-to/use.md).
 
 
 ## CONTRIBUTING IN ISSUES / MERGE REQUESTS
 
-All contributions are welcome provided that they follow [Contributing Guidelines](CONTRIBUTING.md), where you can find
+All contributions are welcome provided that they follow [Contributing Guidelines](https://gitlab.com/exadra37-docker-images/node-zsh/CONTRIBUTING.md), where you can find
 how to _Create an Issue_ and _Merge Request_.
 
 
@@ -46,7 +50,7 @@ Watch [Boards](https://gitlab.com/exadra37-docker-images/node-zsh/boards) to kee
 
 ## BRANCHES
 
-Branches are created as demonstrated [here](docs/how-to/create_branches.md).
+Branches are created as demonstrated [here](https://gitlab.com/exadra37-docker-images/node-zsh/docs/how-to/create_branches.md).
 
 This are the type of branches we can see at any moment in the repository:
 
@@ -61,15 +65,15 @@ removed once they are merged.
 
 ## AUTHOR
 
-More information about the Author can be found [here](AUTHOR.md).
+More information about the Author can be found [here](https://gitlab.com/exadra37-docker-images/node-zsh/AUTHOR.md).
 
 
 ## CONTRIBUTORS
 
-All contributors can be found [here](CONTRIBUTORS.md).
+All contributors can be found [here](https://gitlab.com/exadra37-docker-images/node-zsh/CONTRIBUTORS.md).
 
 
 ## LICENSE
 
-This repository uses GPL-3.0 license, that you can find [here](LICENSE).
+This repository uses GPL-3.0 license, that you can find [here](https://gitlab.com/exadra37-docker-images/node-zsh/LICENSE).
 

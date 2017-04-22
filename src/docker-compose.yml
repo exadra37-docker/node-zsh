@@ -1,0 +1,32 @@
+version: "2"
+
+services:
+
+  # The node Official image with my preferred shell, ZSH with OhMyZsh, plus GIT and CURL
+  node-zsh-image:
+    build: ./build
+    image: node-zsh:${IMAGE_TAG}
+
+  root-user:
+    image: node-zsh
+    depends_on:
+      - node-zsh-image
+
+  node-user:
+    image: node-zsh
+    depends_on:
+      - node-zsh-image
+    user: node
+    volumes_from:
+      - workspace
+
+  node-cli:
+    image: node-zsh
+    depends_on:
+      - node-zsh-image
+    command: node
+
+  workspace:
+    image: tianon/true
+    volumes:
+      - ${WORKSPACE_DIR}:/home/node/workspace
